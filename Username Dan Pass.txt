@@ -1,0 +1,5 @@
+Username Admin : admin@gmail.com
+Pass Admin : admin
+
+Username Author : author@gmail.com
+Pass Author : author

@@ -1,4 +1,4 @@
-@extends('layouts.app')
+@extends('layouts.app_admin')
 
 @section('content')
 <div class="container">
@@ -14,7 +14,7 @@
                         </div>
                     @endif
 
-                    {{ __('Selamat Datang Diaplikasi Saya') }}
+                    {{ __('Selamat Datang Admin !!!') }}
                 </div>
             </div>
         </div>
